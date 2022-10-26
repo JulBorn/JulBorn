@@ -9,12 +9,3 @@ Junior Frontend Developer.
    📫 How to reach me: <a href='mailto:juliabornyakova@mail.ru'>juliabornyakova@mail.ru</a>
 </p>
 
-
-### Key points
-*   
-
-## 🛠 Technical Stack
-*   
-
-### My opensource projects
-*   
