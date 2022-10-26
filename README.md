@@ -2,8 +2,7 @@
 Junior Frontend Developer.
 
 <p align='center'>
-   <a href="https://github.com/JulBorn/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulBorn&layout=compact"/></a>
+   <a href="https://github.com/JulBorn/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulBorn&layout=compact"/></a>
 </p>
 
 <p align='center'>
